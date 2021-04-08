@@ -41,10 +41,4 @@ r2_score(y_test, y_pred)
 where y_test is the test data set for the target variable, and y_pred is the variable containing the predicted values of the target variable on the test set.
 Please don't forget to perform this step as the R-squared score on the test set holds some marks. The variable names inside the 'r2_score' function can be different based on the variable names you have chosen.
  
-
-## Downloads:
-You can download the dataset file from the link given below:
-
-https://drive.google.com/file/d/1ZWVIuuPjiZ0NW_zhyEZ0lr_eyVKeK9Dj/view?usp=sharing
-
-https://docs.google.com/document/d/1U74gnu3zZfHyOFKbOkCi5hE3PtAZqIOydAFZWkVGzlY/edit?usp=sharing
+Made by: Utkarsh raj
